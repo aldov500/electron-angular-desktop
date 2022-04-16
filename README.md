@@ -1,5 +1,12 @@
 # electron-quick-start
 
+1. cd ng
+2. npm install
+3. cd ..
+4. npm install
+5. npm start
+
+
 **Clone and run for a quick way to see Electron in action.**
 
 This is a minimal Electron application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation.
