@@ -1,4 +1,4 @@
-# electron-quick-start
+# This is Angular inside Electron
 
 1. cd ng
 2. npm install
