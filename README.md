@@ -1,4 +1,11 @@
-# electron-quick-start
+# This is Angular inside Electron
+
+1. cd ng
+2. npm install
+3. cd ..
+4. npm install
+5. npm start
+
 
 **Clone and run for a quick way to see Electron in action.**
 
